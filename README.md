@@ -26,8 +26,11 @@ SPECIAL NOTES:
 Thanks again for your assistance, and happy finding!
 
 
-Current Specs and Reqs:  
-https://drive.google.com/open?id=17GSE5-s6McmtBzNc3lxEF3l-qYHlX9e8vdfhiwSIJGQ  
+Current Specs and Reqs:    
+https://docs.google.com/document/d/1WvgKPmoPrKYwBDvTg-x_uIOWimSLV49tts36pOss1Uw/edit?usp=sharing
+
+Current Design and Planning:
+https://docs.google.com/document/d/1dBKfT6J751kISP1-Hb6P11QwPyLH_kFyhcpxac_bCwQ/edit?usp=sharing
 
 Initial Design Document:  
 https://drive.google.com/open?id=0B8zrx0iGiL3WVHVNMkdmY05Iblk  
