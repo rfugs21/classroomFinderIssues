@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bathroom">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Location"
+        android:textSize="14pt"
+        android:id="@+id/textView_b"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        android:id="@+id/spinner1_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/tempData"
+        app:hintText="Select Building"
+        android:layout_below="@+id/textView3_b"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Building"
+        android:textSize="14pt"
+        android:id="@+id/textView3_b"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp" />
+
+    <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+        android:id="@+id/spinner2_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/tempData"
+        app:hintText="Select Current Location"
+        android:layout_marginTop="63dp"
+        android:layout_below="@+id/textView_b"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find"
+        android:onClick="findBF"
+        android:layout_marginBottom="17dp"
+        android:id="@+id/button_b"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
