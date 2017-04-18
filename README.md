@@ -24,3 +24,10 @@ SPECIAL NOTES:
 2. Swipe a favorites entry left to open a dialog box to delete it.  
 
 Thanks again for your assistance, and happy finding!
+
+
+Current Specs and Reqs:  
+https://drive.google.com/open?id=17GSE5-s6McmtBzNc3lxEF3l-qYHlX9e8vdfhiwSIJGQ  
+
+Initial Design Document:  
+https://drive.google.com/open?id=0B8zrx0iGiL3WVHVNMkdmY05Iblk  
